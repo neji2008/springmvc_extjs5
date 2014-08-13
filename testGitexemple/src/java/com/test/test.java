@@ -13,7 +13,8 @@ package com.test;
  */
 public class test {
    
-    ///exepmle
+    ///exemplele
+    ///allo
     
     ////solution
 }
