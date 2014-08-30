@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+
 package com.test;
 
 /**
@@ -12,7 +13,7 @@ package com.test;
  */
 public class test {
    
-    
+    ///exepmle
     
     ////solution
 }
